@@ -2,8 +2,8 @@
 
 !["Gotham"](https://www.tomsguide.fr/content/uploads/sites/2/2022/03/the-batman-new-york.jpg)  
 Voici mon site, concernant Batman et de sa ville.. Gotham !
-Ici vous allez en apprendre plus sur cette ville qui est très dangeureuse et sombre, elle est située aux Etats-Unis.
-Malgré le danger qui court dans les rues de Gotham, il y'a son protecteur, son espoir, sa lumière..git son héros Batman !
+Ici vous allez en apprendre plus sur cette ville, sur son histoire, sa géographie et de sa démographie qui est très dangeureuse et sombre.
+Malgré le danger qui court dans les rues de Gotham, il y'a son protecteur, son espoir, sa lumière.. son héros Batman !
 
 # Sommaire
 1. Histoire
