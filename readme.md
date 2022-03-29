@@ -14,4 +14,4 @@ Malgré le danger qui court dans les rues de Gotham, il y'a son protecteur, son 
 3. Démographie
 4. Différents Batman
 
- [Clique pour en savoir plus afin que Batman te vienne en aide sur VSC](https://yanismahna.github.io/Gotham/)
+ [Si tu cliques, Batman t'aidera sur ton prochain porjet sur Visual Studio Code](https://yanismahna.github.io/Gotham/)
