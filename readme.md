@@ -5,7 +5,7 @@ Voici mon site, concernant Batman et de sa ville.. Gotham !
 
 # Présentation
 
-Ici vous allez en apprendre plus sur cette ville, sur son histoire, sa géographie et de sa démographie qui est très dangeureuse et sombre.
+Ici vous allez en apprendre plus sur cette ville qui est très sombre notamment sur son histoire, sa géographie et de sa démographie.
 Malgré le danger qui court dans les rues de Gotham, il y'a son protecteur, son espoir, sa lumière.. son héros Batman !
 
 # Sommaire
