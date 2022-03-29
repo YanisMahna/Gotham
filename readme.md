@@ -2,6 +2,9 @@
 
 !["Gotham"](https://www.tomsguide.fr/content/uploads/sites/2/2022/03/the-batman-new-york.jpg)  
 Voici mon site, concernant Batman et de sa ville.. Gotham !
+
+# Présentation
+
 Ici vous allez en apprendre plus sur cette ville, sur son histoire, sa géographie et de sa démographie qui est très dangeureuse et sombre.
 Malgré le danger qui court dans les rues de Gotham, il y'a son protecteur, son espoir, sa lumière.. son héros Batman !
 
@@ -11,4 +14,4 @@ Malgré le danger qui court dans les rues de Gotham, il y'a son protecteur, son 
 3. Démographie
 4. Différents Batman
 
- [cliquer sur le lien pour voir plus de détails](https://yanismahna.github.io/Gotham/)
+ [Clique pour en savoir plus afin que Batman te vienne en aide sur VSC](https://yanismahna.github.io/Gotham/)
